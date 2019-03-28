@@ -1,2 +1,2 @@
 # git-hello-world
-This is a git hello world file.
+This is some new text.
